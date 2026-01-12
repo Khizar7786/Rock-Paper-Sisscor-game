@@ -1,16 +1,4 @@
-# f = open('myfile.txt', 'r')
-# text= f.readlines()
-# print(text)
-# newFile = open('Notmyfile.txt', 'w')
-# linesTobeadded = ["LINE 1\n","LINE 2\n","LINE 3\n"]
-# newFile.writelines(linesTobeadded)
-# from functools import reduce
-# myl =[2,3,4,5]
-# newl = reduce(lambda x,y :x+2+y, myl)
-# print(newl)
-# import random 
-# num = random.choice(myl)
-# print(num)
+
 import random
 choices = ["rock", "paper", "sisscor"]
 player = None
